@@ -1,0 +1,2 @@
+# tqlogs
+将telegram或qq的聊天记录集成爬取至本地excel，适用于多群聊数据处理
